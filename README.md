@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ben-morpheus
 - 👀 I’m interested in Go,python,ansible & Cloud
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on GitOps
+- 💞️ I’m looking to collaborate on GitOps/CI CD/Go,Flutter
 - 📫 How to reach me kods.cloud at gmail dot com 
 
 <!---
